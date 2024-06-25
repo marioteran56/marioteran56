@@ -2,7 +2,7 @@
 
 ## About me 👨🏻‍💻
 
-I'm currently studying *Computer Cience* at [UACH](https://uach.mx/) 🎓, very passionate for learning **new technologies** related with *automatization* ⚙️ and the *DevOps* culture ♾️.
+I'm proudly a *Computer Cience* engineer, graduated from [UACH](https://uach.mx/) 🎓, very passionate for learning **new technologies** related with *automatization* ⚙️, the *DevOps* culture ♾️ and *cibersecurity* stuff 🦾.
 
 ## Technologies and tools 🛠️
 
